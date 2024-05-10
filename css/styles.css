@@ -1,0 +1,26 @@
+.p2 {
+    color: blue;
+}
+
+.p2:hover{
+    background-color: blue;
+    color: white;
+}
+
+margin {
+    position: fixed;
+    top: 0;
+    left: 0;
+    
+}
+
+button {
+    background-color: blue;
+    color: white;
+}
+
+
+.heading {
+    font-weight: normal;
+}
+
